@@ -2,8 +2,8 @@
 ## Setup data files
 ##
 
-download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip","Proj_Dataset.zip",method="curl")
-unzip("Proj_Dataset.zip")
+#download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip","Proj_Dataset.zip",method="curl")
+#unzip("Proj_Dataset.zip")
 setwd("UCI HAR Dataset")
 
 ##
